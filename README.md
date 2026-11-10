@@ -1,85 +1,87 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=OXE&fontSize=64&fontColor=3fb950&fontAlignY=50&desc=Projects%20Development%20Specialist&descSize=18&descColor=8b949e&descAlignY=76" />
-
-<div align="center">
-
-<a href="https://github.com/OXE">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=%24+whoami;FiveM+%7C+RedM;ideas+%E2%86%92+specs+%E2%86%92+shipped+features;working+with+devs+%26+UI+devs" alt="typing" />
-</a>
-
-</div>
-
-<br/>
-
-```bash
-$ whoami
-OXE
-
-$ cat profile.json
-```
-```json
-{
-  "role": "Projects Development Specialist",
-  "platforms": ["FiveM", "RedM"],
-  "works_with": ["Developers", "UI Developers", "Server Owners"],
-  "focus": ["Server concepts", "System ideas", "UI direction", "Project delivery"]
-}
-```
-
----
-
-## 📜 Experience
-
-```bash
-$ git log --oneline --graph
-```
-```text
-* a1f4c9e  Projects Development Specialist
-|           Plan, direct, and deliver server projects with dev & UI teams
-* 7b2d8e1  Server Concepts & Systems
-|           Designing ideas for servers, gameplay systems, and features
-* 3c9e5a0  Dev & UI Collaboration
-|           Briefing developers and UI devs, turning ideas into specs
-* 0e1d7f4  FiveM & RedM
-            Hands-on in the community since 2018
-```
-
-### What I bring to a team
-- 💡 **Ideas that fit the server:** features and systems built around how players actually play
-- 🧑‍💻 **Clear dev direction:** concepts turned into tasks developers can build without guessing
-- 🎨 **UI awareness:** HUDs, menus, and interfaces that feel natural in-game
-- 🔧 **Improvement mindset:** spotting what's missing and fixing it using real experience
-
----
-
-## 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,react,mysql,git,figma,vscode&perline=10" />
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OXE&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OXE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950" />
-
-</div>
-
----
-
-## 📫 Contact
-
-```bash
-$ open github.com/OXE
-```
-
-<!-- Add your links here, e.g.
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=3fb950)](https://discord.com/users/YOUR_ID)
+<!--
+  OXE | FiveM & RedM Project Developer
+  Replace OXE with your GitHub username.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:7C3AED&height=190&section=header&text=OXE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20%7C%20RedM%20%7C%20Project%20Development&descAlignY=60&descSize=16" width="100%" alt="OXE banner" />
+</p>
+
+<h3 align="center">Ideas into systems. Concepts into experiences.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=FiveM+%26+RedM+Project+Developer;Gameplay-driven+systems;Project+direction+%26+development;UI%2FUX+with+the+player+in+mind" alt="Animated developer introduction" />
+</p>
+
+---
+
+## 👋 About Me
+
+I’m **OXE** — a project\-focused developer working in the **FiveM and RedM ecosystem**\.
+
+My experience is centered around multiplayer roleplay projects: understanding how players interact with a server, identifying what can be improved, and turning ideas into clear, practical development direction\.
+
+I care about more than adding features\. I care about how systems fit together, how they feel in\-game, and whether they genuinely improve the experience\.
+
+## 🎯 What I Focus On
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💡 Gameplay-driven ideas</h3>
+      <p>Features and systems shaped around how players actually play, not just what looks good on paper.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Clear development direction</h3>
+      <p>Turning concepts into structured requirements and actionable tasks developers can build without guessing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 UI / UX awareness</h3>
+      <p>HUDs, menus, and interfaces designed to feel intuitive, consistent, and natural in-game.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Continuous improvement</h3>
+      <p>Spotting missing pieces, reviewing existing systems, and improving them through real server experience.</p>
+    </td>
+  </tr>
+</table>
+
+## 🎮 My Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-Project%20Development-8B5CF6?style=for-the-badge" alt="FiveM" />
+  <img src="https://img.shields.io/badge/RedM-Project%20Development-7C3AED?style=for-the-badge" alt="RedM" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gameplay%20Systems-18181B?style=flat-square" alt="Gameplay systems" />
+  <img src="https://img.shields.io/badge/Project%20Direction-18181B?style=flat-square" alt="Project direction" />
+  <img src="https://img.shields.io/badge/UI%20%2F%20UX-18181B?style=flat-square" alt="UI and UX" />
+  <img src="https://img.shields.io/badge/Player%20Experience-18181B?style=flat-square" alt="Player experience" />
+</p>
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OXE&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&include_all_commits=true" alt="OXE GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OXE&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E5E7EB" alt="Most used languages" />
+</p>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OXE/OXE/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <b>OXE</b><br/>
+  Building better experiences across FiveM & RedM.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:09090B&height=110&section=footer" width="100%" alt="Footer banner" />
+</p>
